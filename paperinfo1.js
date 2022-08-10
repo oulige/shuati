@@ -1,0 +1,1 @@
+{"code":0,"data":{"id":13077,"userId":"oM2Ub0XigV1aMOm7f1e5c5LgczcU","name":"人力资源","total":348,"collectNum":0,"nickName":"欧力","version":1,"allowSearch":0,"hasPwd":0,"createdAt":"2022-06-06 11:03:31","source":1},"message":"success"}
