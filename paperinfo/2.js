@@ -1,0 +1,1 @@
+{"code":0,"data":{"id":2,"userId":"oM2Ub0XigV1aMOm7f1e5c5LgczcU","name":"团党史","total":500,"collectNum":0,"nickName":"欧力","version":1,"allowSearch":1,"hasPwd":0,"createdAt":"2022-03-21 19:09:22","source":1},"message":"success"}

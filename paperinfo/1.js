@@ -1,1 +1,1 @@
-
+{"code":0,"data":{"id":1,"userId":"oM2Ub0XigV1aMOm7f1e5c5LgczcU","name":"信号工车区","total":956,"collectNum":1,"nickName":"欧力","version":1,"allowSearch":1,"hasPwd":0,"createdAt":"2022-04-10 11:35:12","source":1},"message":"success"}
