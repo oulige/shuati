@@ -1,1 +1,1 @@
-{"code":0,"data":{"id":7,"userId":"oM2Ub0XigV1aMOm7f1e5c5LgczcU","name":"共性规章","total":237,"collectNum":0,"nickName":"欧力","version":1,"allowSearch":1,"hasPwd":0,"createdAt":"2020-07-16 15:32:56","source":1},"message":"success"}
+{"code":0,"data":{"id":7,"userId":"oM2Ub0XigV1aMOm7f1e5c5LgczcU","name":"共性规章","total":237,"collectNum":0,"nickName":"欧力","version":1,"allowSearch":1,"password":"987178465","hasPwd":0,"createdAt":"2020-07-16 15:32:56","source":1},"message":"success"}

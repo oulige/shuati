@@ -1,1 +1,1 @@
-{"code":0,"data":{"id":4,"userId":"oM2Ub0XigV1aMOm7f1e5c5LgczcU","name":"2021信号工","total":1600,"collectNum":1,"nickName":"欧力","version":1,"allowSearch":1,"hasPwd":0,"createdAt":"2021-04-19 13:08:12","source":1},"message":"success"}
+{"code":0,"data":{"id":4,"userId":"oM2Ub0XigV1aMOm7f1e5c5LgczcU","name":"2021信号工","total":1600,"collectNum":1,"nickName":"欧力","version":1,"allowSearch":1,"password":"987178465","hasPwd":0,"createdAt":"2021-04-19 13:08:12","source":1},"message":"success"}
