@@ -1,0 +1,1 @@
+{"code":0,"data":{"id":10,"userId":"oM2Ub0XigV1aMOm7f1e5c5LgczcU","name":"2022信号工","total":1150,"collectNum":0,"nickName":"欧力","version":1,"allowSearch":1,"hasPwd":0,"createdAt":"2022-10-17 21:54:54","source":1},"message":"success"}
