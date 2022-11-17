@@ -1,0 +1,1 @@
+{"code":0,"data":{"id":12,"userId":"oM2Ub0XigV1aMOm7f1e5c5LgczcU","name":"深度学习复习题","total":68,"collectNum":0,"nickName":"欧力","version":1,"allowSearch":1,"password":"lyc","hasPwd":1,"createdAt":"2022-11-17 12:13:36","source":1},"message":"success"}
